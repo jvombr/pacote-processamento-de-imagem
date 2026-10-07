@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: pacote-processamento-de-imagem
+Version: 0.0.1
+Summary: Processamento de imagem
+Home-page: https://github.com/jvombr/pacote-processamento-de-imagem
+Author: jvombr
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+Dynamic: author
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

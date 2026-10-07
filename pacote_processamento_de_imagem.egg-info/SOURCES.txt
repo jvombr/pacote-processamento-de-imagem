@@ -1,0 +1,7 @@
+README.md
+setup.py
+pacote_processamento_de_imagem.egg-info/PKG-INFO
+pacote_processamento_de_imagem.egg-info/SOURCES.txt
+pacote_processamento_de_imagem.egg-info/dependency_links.txt
+pacote_processamento_de_imagem.egg-info/requires.txt
+pacote_processamento_de_imagem.egg-info/top_level.txt
